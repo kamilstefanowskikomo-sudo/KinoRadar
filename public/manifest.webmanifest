@@ -1,0 +1,11 @@
+{
+  "name": "KinoRadar",
+  "short_name": "KinoRadar",
+  "description": "Repertuary kin w jednym miejscu",
+  "lang": "pl-PL",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1017",
+  "theme_color": "#10131c",
+  "icons": []
+}
